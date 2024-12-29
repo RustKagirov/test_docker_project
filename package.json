@@ -1,0 +1,14 @@
+{
+  "name": "my-web-app",
+  "version": "1.0.0",
+  "description": "Пример веб-приложения",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Твое Имя",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
